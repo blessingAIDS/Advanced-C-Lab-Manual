@@ -1,12 +1,12 @@
 # EXP NO:6 C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
-# Reg no:212224240044
-# Name: Gokul S
+# Reg no:212224230039
+# Name: BLESSING S
 Aim:
-To write a C program print the lowercase English word corresponding to the number
+To write a C program print the lowercase English word corresponding to the number.
 Algorithm:
 1.	Start
 - Initialize an integer variable n.
-2.	Input Validation
+2.	Input Validation.
 3.	Switch Statement cases.
 -	Case 5: Print "seventy one"
 -	Case 6: Print "seventy two"
